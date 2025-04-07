@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.icono {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+} 
+
+
